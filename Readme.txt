@@ -3,7 +3,6 @@ RUNNING THE CODE:
     - Download the whole repository (virtual environment already included in it).
     - Open CLI, go to the folder of the application.
     - Install and Activate Virtual Environment (might also work witout it).
-    - Go to djrestapi folder.
     - Use Command: python3 manage.py runserver
 
 
@@ -23,5 +22,5 @@ MACHINE ON WHICH THIS CODE HAS BEEN DEVELOPED :
 
 CODE DESCRIPTION:
 
-    - Inside the djrestapi folder, calendar API is build in calendar_api folder.
-    - For user system, rest-auth API is used, for eliminating the username, some methods have beend over writen in user_api folder inside djrestapi folder.
+    - Calendar API is build in calendar_api folder.
+    - For user system, rest-auth API is used, for eliminating the username, some methods have beend over writen in user_api folder.
