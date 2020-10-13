@@ -25,6 +25,9 @@ CODE DESCRIPTION:
     - Calendar API is build in calendar_api folder.
     - For user system, rest-auth API is used, for eliminating the username, some methods have beend over writen in user_api folder.
 
+DOCUMENTATION:
+
+    - Can be find at the path: /documentation
 
 CLOUD DEPLOYMENT:
 
