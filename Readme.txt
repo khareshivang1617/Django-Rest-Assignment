@@ -2,7 +2,7 @@ RUNNING THE CODE:
     
     - Download the whole repository (virtual environment already included in it).
     - Open CLI, go to the folder of the application.
-    - To activate virtual environment: source venv/bin/activate
+    - Install and Activate Virtual Environment.
     - Go to djrestapi folder.
     - Use Command: python3 manage.py runserver
 
