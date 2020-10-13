@@ -1,2 +1,2 @@
 release: python3 manage.py migrate
-web: gunicorn djreactapi.wsgi --log-file -
+web: gunicorn djrestapi.wsgi --log-file -
