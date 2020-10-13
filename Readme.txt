@@ -2,7 +2,7 @@ RUNNING THE CODE:
     
     - Download the whole repository (virtual environment already included in it).
     - Open CLI, go to the folder of the application.
-    - Install and Activate Virtual Environment.
+    - Install and Activate Virtual Environment (all the pip libraries have been mentioned in requirements.txt).
     - Go to djrestapi folder.
     - Use Command: python3 manage.py runserver
 
