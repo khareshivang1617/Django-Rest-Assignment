@@ -8,7 +8,7 @@ RUNNING THE CODE:
 
 ADMIN PANEL:
 
-    - Admin panel can be accesed at http://127.0.0.1:8000/admin/
+    - Admin panel can be accesed at /admin/
 
     - Admin account details:
         Username: admin
@@ -24,3 +24,8 @@ CODE DESCRIPTION:
 
     - Calendar API is build in calendar_api folder.
     - For user system, rest-auth API is used, for eliminating the username, some methods have beend over writen in user_api folder.
+
+
+CLOUD DEPLOYMENT:
+
+    - This code has also been deployed on heroku, at link: https://assignment-shivang.herokuapp.com/
